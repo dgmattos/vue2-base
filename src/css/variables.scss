@@ -1,0 +1,43 @@
+$primary: #fcd551;
+$primary2: #f8ab28;
+$secondary: #272a5f;
+$dark: #252525;
+$white: #fff;
+$success: #28a745;
+$danger: #dc3545;
+$warning: #ffc107;
+$info: #0077e2;
+$acento: #4472c4;
+$f97: 0.97rem;
+$b_raduis: 26px;
+$fs_21: 1rem;
+$gray-100: rgb(244, 244, 244);
+$light-100: #e5e5e5;
+$light-200: #f7f4f4;
+$branco: #fff;
+$rosa: #cf2872;
+$gray: #788995;
+$gray-200: #eaeaea;
+$azultg3s: #2b3e78;
+$text-gray: #999999;
+
+$theme-colors: (
+        "primary": $primary,
+        "primary2": $primary2,
+        "secondary": $secondary,
+        "dark": $dark,
+        "white": $white,
+        'success':$success,
+        'danger':$danger,
+        'warning':$warning,
+        'info':$info,
+        'acento':$acento,
+        'light-100':$light-100,
+        'light-200':$light-200,
+        'branco':$branco,
+        'rosa':$rosa,
+        'gray':$gray,
+        'azultg3s':$azultg3s,
+        'gray-200':$gray-200,
+);
+
