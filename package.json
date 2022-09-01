@@ -5,8 +5,9 @@
   "main": "src/main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "prod": "webpack --config ./config/webpack.config.js --env production",
-    "dw": "webpack --config ./config/webpack.config.js --env development --watch --hot"
+    "dev": "webpack --config ./config/webpack.config.js --env development",
+    "dw": "webpack --config ./config/webpack.config.js --env development --watch --hot",
+    "prod": "webpack --config ./config/webpack.config.js --env production"
   },
   "keywords": [],
   "author": "Deivid Gustavo Mattos",
