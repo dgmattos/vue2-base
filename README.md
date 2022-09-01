@@ -4,6 +4,23 @@
 Projeto base para criação de módulos com vuejs.
 
 
+## Utilização
+
+Ao baixar execute:
+
+```bash
+  npm install
+```
+
+Para gerar os arquivos js utilize um dos comandos:
+
+```bash
+  npm run dev
+  npm run prod
+  npm run dw
+```
+
+
 ## Referência
 
  - [vuejs](https://vuejs.org/)
@@ -21,19 +38,4 @@ Projeto base para criação de módulos com vuejs.
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
-## Utilização
-
-Ao baixar execute:
-
-```bash
-  npm install
-```
-
-Para gerar os arquivos js utilize um dos comandos:
-
-```bash
-  npm run dev
-  npm run prod
-  npm run dw
-```
     
